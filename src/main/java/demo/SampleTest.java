@@ -32,6 +32,7 @@ public class SampleTest
 		{
 			WebDriverManager.edgedriver().setup();
 			driver=new EdgeDriver();
+			//pushed
 		}
 		else
 		{
